@@ -1,0 +1,9 @@
+{
+  "name": "QuietVault",
+  "short_name": "QuietVault",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbf6e9",
+  "theme_color": "#f5e7bd",
+  "icons": []
+}
